@@ -19,4 +19,3 @@
 	a) Leia estes dados, armazenando-os;
 	b) Imprima a média de cada aluno;
 	c) Imprima a maior média e a matrícula do aluno que a possui;
-
